@@ -1,0 +1,2 @@
+# mslider
+Pure JS Slider
